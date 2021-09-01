@@ -1,4 +1,4 @@
-Por que a média de temperatura de Mercúrio é 166 C°, enquanto a de Vênus é 461
+→ Por que a média de temperatura de Mercúrio é 166 C°, enquanto a de Vênus é 461
 C°?
 O Vênus retém mais a radiação solar (o calor), devido a grande quantidade de
 dióxido de carbono presente em sua atmosfera, isso mantém a superfície
@@ -8,7 +8,7 @@ Apesar de Mercúrio estar mais próximo ao Sol, ele não tem uma atmosfera pra
 reter o calor, então boa parte é refletida para o espaço.
 
 
-Qual a diferença entre cometa, asteróide, meteoro e meteorito?
+→ Qual a diferença entre cometa, asteróide, meteoro e meteorito?
 Os cometas são constituídos de gelo e um pouco de rocha, ao deslocar deixa uma
 cauda que é o derretimento do gelo.
 
@@ -21,7 +21,7 @@ Meteorito, o ito no final significa: "rocha", se um cometa cair na Terra, será
 um meteorito.
 
 
-Por que a nossa lua é nomeada apenas de Lua e as luas dos demais planetas do
+→ Por que a nossa lua é nomeada apenas de Lua e as luas dos demais planetas do
 nosso sistema solar têm nomes? Vide Encélado, Titã, Fobos, Deimos...
 Algo em específico?
 A nossa foi a primeira e única lua conhecida por séculos, quando descobrimos
@@ -38,6 +38,15 @@ valores gregos, a medida que foram descobrindo os astros, foram
 nomeando em homenagem a mitologia grega.
 
 
-Por que Mercúrio e Vênus não tem satélites naturais (luas)?
+→ Por que Mercúrio e Vênus não tem satélites naturais (luas)?
 Por serem muito próximo ao Sol, qualquer lua que Mercúrio pudesse ter tido ou
 tentado capturar estaria em uma órbita instável, porquê o Sol a puxaria.
+
+
+→ Qual a diferença de ontologia e epistemologia?
+Epistemologia: É como a gente entende o mundo.
+Ontologia: Do que o mundo é feito.
+
+
+→ O que é a contração espacial?
+Quanto mais rápido o objeto passa, menor ele fica.
