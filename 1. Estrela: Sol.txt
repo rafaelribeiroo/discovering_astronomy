@@ -2,3 +2,11 @@ Onomástica: Solis significa sol em latim, é o equivalente romano do deus-sol
 grego Hélios.
 
 Média de temperatura: 5.505 °C
+
+Tendo como base a hipótese da esfera de Dyson, ao qual basicamente se constitui
+de mega estruturas ao redor de estrelas para captar mais energia, a fim de
+evoluir o desenvolvimento terrestre, quanta energia o Sol emite?
+O Sol tem uma potência de 3.8 * 10₂₆ watts, isso quer dizer que em 1s ele
+produz 380 bilhões de bilhões de milhões de joules, essa energia daria
+para abastecer o mundo inteiro por 760 anos, considerando o consumo
+anual atual.
