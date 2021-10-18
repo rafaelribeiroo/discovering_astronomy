@@ -77,9 +77,21 @@ Carl Sagan disse isso em 1980 e, o propósito foi para dizer que o cosmos está
 dentro de nós, uma vez que nosso corpo (90%) é constituído de átomo de
 hidrogênio, oxigênio, nitrogênio, carbono e alguns outros elementos
 essenciais para a vida, elementos tais que um dia estiveram dentro
-de uma estrela que, após o Big Bang, houve o empuxo. 
+de uma estrela que, após o Big Bang, houve o empuxo.
 
 
 → O que é um Quasar?
 É um buraco negro super massivo que está a distâncias cosmológicas no núcleo de
 uma galáxia.
+
+
+→ O que é a Escala de Bortle?
+É uma escala que varia de 1 a 9, sendo nove o mais alto grau de poluição
+visual, quanto mais eleva, mais dificulta a observação cósmica.
+
+
+→ O cinturão de asteróides realmente é muito denso/aglomerado a ponto de uma
+"nave" futurísticas ter que fazer manobras evasivas?
+A distância média entre dois asteróides no cinturão principal que existe entre
+Marte e Júpiter é de quase 1.000.000km, o que é 2.5x a distância da Terra até
+a lua.

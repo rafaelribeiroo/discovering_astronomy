@@ -11,3 +11,6 @@ similares a Plutão, então porquê chamávamos Plutão de
 planeta e os demais objetos não?
 A órbita de um planeta precisa ser limpa (não possuir destroços), já a de
 Plutão é toda suja, pois não teve gravidade o suficiente para limpar.
+
+Só vemos as imagens em alta resolução atualmente pelas sondas: Long Range
+Reconnaissance Imager.

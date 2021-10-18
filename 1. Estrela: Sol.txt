@@ -10,3 +10,11 @@ O Sol tem uma potência de 3.8 * 10₂₆ watts, isso quer dizer que em 1s ele
 produz 380 bilhões de bilhões de milhões de joules, essa energia daria
 para abastecer o mundo inteiro por 760 anos, considerando o consumo
 anual atual.
+
+"E se o som do Sol propagasse pelo vácuo como na Terra?"
+Nisso, ouviríamos queimando o hidrogênio a mais de 100 decibéis, isso é tão
+alto quanto uma motoserra ligada em potência máxima na sua frente.
+
+"Se o Sol está no espaço, por quê é tudo escuro?"
+Pelo vácuo, não há elementos/objetos para receber essa luminosidade, como se
+ligássemos um laser, só observamos quando bate em alguma superfície.

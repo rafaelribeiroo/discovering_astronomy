@@ -5,4 +5,8 @@ viajantes.
 Média de temperatura: 166 °C
 
 A órbita elíptica do Mercúrio não é estática, ela vai variando no tempo, como
-se fosse um peão em prescessão, daí vêm o nome de prescessão do periélio.
+se fosse um peão em precessão, daí vêm o nome de precessão do periélio.
+
+Só vemos as imagens em alta resolução atualmente pelas sondas: Messenger, que
+capturou mais de 200.000 imagens após uma queda intencional na superfície em
+2015 por ter acabado o combustível, a missão foi enviada em 2011.
