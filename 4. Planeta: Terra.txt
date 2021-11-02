@@ -4,3 +4,6 @@ Média de temperatura: 15 °C
 
 Só vemos as imagens em alta resolução atualmente pelas sondas: ISS e centenas
 de sondas que circulam nosso planeta.
+
+No interior da Terra, tem um manto derretido chamado Litosfera, que é quebrada
+em placas tectônicas, onde uma desliza na outra, outra fica por cima etc.

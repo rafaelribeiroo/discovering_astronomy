@@ -18,3 +18,7 @@ alto quanto uma motoserra ligada em potência máxima na sua frente.
 "Se o Sol está no espaço, por quê é tudo escuro?"
 Pelo vácuo, não há elementos/objetos para receber essa luminosidade, como se
 ligássemos um laser, só observamos quando bate em alguma superfície.
+
+"Por que monitorar o Sol?"
+Se vier uma grande explosão solar e der um blackout geral, tem como nos
+prevenirmos.
