@@ -10,6 +10,10 @@ O Sol tem uma potência de 3.8 * 10₂₆ watts, isso quer dizer que em 1s ele
 produz 380 bilhões de bilhões de milhões de joules, essa energia daria
 para abastecer o mundo inteiro por 760 anos, considerando o consumo
 anual atual.
+    → O que é a escala de Kardashev?
+    Esta escala está diretamente ligada à esfera de Dyson, já que para conceber
+    a esfera, teria que ser uma civilização nível II, de acordo com a escala de
+    Kardashev.
 
 "E se o som do Sol propagasse pelo vácuo como na Terra?"
 Nisso, ouviríamos queimando o hidrogênio a mais de 100 decibéis, isso é tão

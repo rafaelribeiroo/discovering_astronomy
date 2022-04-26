@@ -95,3 +95,30 @@ visual, quanto mais eleva, mais dificulta a observação cósmica.
 A distância média entre dois asteróides no cinturão principal que existe entre
 Marte e Júpiter é de quase 1.000.000km, o que é 2.5x a distância da Terra até
 a lua.
+
+
+→ Qual a velocidade de escape necessária para deixar a órbita terrestre?
+
+
+
+→ O que fazem no acelerador de partículas?
+Estudam propriamente o elétron e a região da eletrosfera.
+
+
+→ Qual a distância necessária para visualizar o formato da Terra?
+Necessita ao menos estar a meio caminho da lua, ou seja, 192.200kms
+
+
+→ Qual foi a tese mais famosa de Kepler?
+Ele dizia que as regiões varridas pela linha que liga o planeta até a
+estrela, em tempos iguais, tem áreas iguais. Ou seja, se o planeta
+leva um certo tempo para percorrer um caminho ao redor da estrela,
+a área da figura formada pela linha que liga o planeta até a
+estrela, enquanto ele percorre esse caminho, será igual a
+área de outras figuras, cujo caminho o planeta levou o
+mesmo tempo para percorrer.
+
+
+→ Como diferenciar estrelas, planetas e satélites?
+Se o ponto luminoso não cintilar (piscar), é um planeta, caso contrário, é uma
+estrela. Se o ponto se mover rapidamente é um satélite.
