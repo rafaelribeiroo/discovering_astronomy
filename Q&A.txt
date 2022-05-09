@@ -122,3 +122,10 @@ mesmo tempo para percorrer.
 → Como diferenciar estrelas, planetas e satélites?
 Se o ponto luminoso não cintilar (piscar), é um planeta, caso contrário, é uma
 estrela. Se o ponto se mover rapidamente é um satélite.
+
+
+→ Qual a neura da 4ª dimensão, comumente abordada em hard sci-fi?
+A forma mais fácil de compreendê-la é assistindo os clássicos:
+"Matadouro-cinco" ou "Interstellar", uma vez que Coop é puxado pela força
+gravitacional do buraco negro, após tentar salvar Brand, ele entra em uma
+espécie de "portal" para a 4ª dimensão, ou seja, a do tempo.
