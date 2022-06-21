@@ -129,3 +129,13 @@ A forma mais fácil de compreendê-la é assistindo os clássicos:
 "Matadouro-cinco" ou "Interstellar", uma vez que Coop é puxado pela força
 gravitacional do buraco negro, após tentar salvar Brand, ele entra em uma
 espécie de "portal" para a 4ª dimensão, ou seja, a do tempo.
+
+
+→ A qual distância fica a estrela mais próxima, ignorando o Sol?
+Aproximadamente (~) 4 anos-luz, ou seja, vemos o brilho emitido por ela há
+4 anos (refração).
+
+
+→ O que é apogeu e perigeu da Lua?
+Todos sabemos que a Lua orbita a Terra em uma elipse, o perigeu é a região
+mais próxima e o apogeu, mais distante. Checar imagem: "2.png"
