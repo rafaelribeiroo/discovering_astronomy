@@ -1,0 +1,155 @@
+A astronomia surgiu de certo modo, assim que o ser humano saiu das cavernas, 
+pois ele passou a olhar para o céu e ver o movimento do Sol, da Lua, 
+perceber o dia e a noite, começando ali sua aventura. 
+
+Para prosseguir, devemos entender o conceito de modelo.
+    Nada mais é que uma representação conceitual do mundo real que opera de
+maneira consistente com as observações.
+    Para que seja válida, precisa:
+
+    ← Honrar todos os dados observados;
+    ← Ser capaz de fazer previsões de eventos futuros.
+    ← Em uma analogia, seria igual quando vamos atravessar a rua e, mentalmente
+calculamos a velocidade do carro e o deslocamento que precisamos fazer para
+chegar ao outro lado salvo, se o carro acelera, a gente instantaneamente
+para no meio da rua ou aumenta a velocidade.
+
+Após deixarem a caverna, o principal método para marcar o ciclo lunar eram
+ossos de babuíno (Lebombo e de Ishango). Após isso, surgiram diversos
+monumentos para marcar o calendário – ciclos da lua, solstícios, dia
+e noite etc.
+
+    ← Campo de Warren (Escócia): marcava as fases da lua;
+    ← Círculo de Goseck (Alemanha): observatório solar, são vários círculos
+concêntricos;
+    ← Stonehenge (Inglaterra): observatório mais famoso e mais antigo de
+todos;
+    ← El Caracol (México): observatório feito pela cultura Maia, era
+alinhado apenas ao movimento do planeta Vênus, que era bastante
+importante para definir a posição deles em Batalha;
+
+(Obs) Até hoje a gravidez é guiada pelo ciclo lunar.
+
+Após muitos anos, a civilização foi evoluindo... E com isso, a astronomia pode
+ser classificada em três povoados antigos.
+
+• Babilônios
+    ← Fizeram cálculos com as observações realizadas;
+    ← Isolaram eventos planetários e estabeleceram um calendário lunar;
+    ← Desenvolveram o Ciclo de Saros: prevê eclipses solares/lunares.
+
+• Egípcios
+    ← Lidavam com as épocas de cheia do Rio Nilo pela astronomia bem definida;
+    ← Localizaram a estrela Polaris e a posição de futuras constelações, como
+Órion;
+    ← Começaram a dividir o céu em constelações;
+    ← Em 2500 a.C. dividiram em 3 estações de 4 meses: inundação, seca e
+colheita.
+
+(Obs) A construção das pirâmides alinha perfeitamente com as três Marias
+(constelação de Órion).
+
+• Gregos
+    ← Os primeiros a preservar os documentos relacionados a astronomia;
+    ← Começam a entender os movimentos do céu, com modelos matemáticos e não
+simplesmente com modelos físicos (alinhamento em templos);
+
+    • Eudóxio
+        ← Descreveu as constelações esquematicamente, com a hora e dia que
+seriam visíveis;
+        ← Discutiu sobre o tamanho da Lua, Terra e Sol;
+        ← Criou as esferas de Eudóxio, que representa a mudança de posição
+de cada astro.
+
+    • Aristóteles
+        ← Primeiro a provar que a Terra era esférica;
+        ← Melhorou o modelo de Eudóxio de 27 para 55 esferas concêntricas.
+
+    • Eratóstenes
+        ← Provou que a Terra não era plana, calculando o raio da Terra com
+muita precisão, usando trigonometria;
+        ← Considerado o pai da geografia.
+
+    • Hypparchus
+        ← Catalogou grande parte das estrelas, relevando as posições;
+        ← Criou trigonometria;
+        ← Descobriu a precessão quando comparou o seu catálogo de estrelas com
+o catálogo antigo (mostrava que a estrela não era fixa, mas se desloca).
+
+    • Ptolomeu
+        ← Compilou um catálogo com mais de 1000 estrelas contendo coordenadas
+celestes e brilho;
+        ← Expressou o brilho das estrelas como magnitude.
+
+    • Copérnico
+        ← Calculou a distância relativa até os planetas;
+        ← Propôs o modelo heliocêntrico: tirou a Terra do centro do universo e
+colocou o Sol.
+
+Dando um salto no tempo, outras civilizações começaram a evoluir a astronomia:
+Dinamarqueses, Australianos e boa parte da Europa.
+
+• Johannes Kepler
+    ← Criou um modelo chamado Sólido Platônico para explicar o heliocentrismo
+elaborado por Copérnico;
+    ← Criou as três leis de Kepler:
+
+        ← 1ª: A órbita de um planeta não é circular, mas sim uma elipse;
+        ← 2ª: Imaginamos uma linha elíptica onde o Sol seja o centro e a Terra
+esteja orbitando-o, a ideia é que ele vai varrer uma área igual da elipse num
+mesmo intervalo de tempo;
+        ← 3ª: O quadrado do período orbital de um planeta é proporcional ao
+cubo do seu semi-eixo maior.
+
+        ← Aplicando isso, ele previu a órbita de Marte, bem como as
+oposições, tudo isso através da previsão do movimento retrogrado.
+
+• Galileu Galilei
+    ← Foi responsável pela revolução científica;
+    ← Não criou o telescópio, mas o utilizou para fins astronômicos. Após
+observar as luas: Io, Europa, Calisto e Ganimedes orbitando Júpiter,
+provou a teoria de Copérnico;
+
+• Isaac Newton
+    ← Formulou a lei da gravitação universal;
+    ← Newton via a gravidade como uma força, enquanto Einstein, como uma
+deformação.
+    ← Criou as três leis de Newton:
+
+        ← 1ª: Inércia, ou seja, um corpo vai parecer imóvel até que alguém
+exerça alguma forca sobre;
+        ← 2ª: Assim que uma forca F, age em um corpo de massa M, ela
+produz uma aceleração a, igual à forca, dividida pela massa;
+        F = m * a
+        ← 3ª: Para toda acao, tem uma reacao pro outro lado.
+
+        ← Aplicando isso, é possivel derivar o movimento orbital e a colocação
+de satélites em órbita de um planeta. Ou seja, é calculado o empuxo
+(velocidade necessária) necessário para deixar a gravidade da
+Terra.
+
+• Edmond Halley
+    ← Catalogou pela 1ª vez as estrelas pelo hemisfério Sul, antes era apenas
+pelo Norte;
+    ← Calculou a periodicidade do cometa Halley.
+
+• Albert Einstein
+    ← Desenvolveu a teoria da relatividade: um dos pilares da física moderna;
+    ← Publicou um artigo importante sobre o efeito fotoelétrico: aplicando
+isso ao dia-a-dia, a porta do elevador só para quando colocamos a mão
+por isso;
+    ← Teorizou o tecido espaço-tempo, os dois andam juntos: a melhor forma
+de testar isso é pegando um lençol e, jogando de forma circular dois
+objetos de pesos incongruentes, um vai deformar o outro.
+    E = m * c²
+
+• Edwin Hubble
+    ← Descobriu que a Via Láctea não era a única no universo.
+
+• Stephen Hawking
+    ← Propôs a radiação Hawking: onde os buracos negros emitem uma certa
+radiação em escala quântica e podem chegar a evaporar;
+    ← A maior parte das teorias sobre buraco negro que conhecemos foi
+teorizada por ele.
+
+Ideia proposta: Mostrar o quanto o pensamento evoluiu de lá pra cá.
