@@ -1,0 +1,80 @@
+A Terra possui 3 movimentos básicos que precisamos conhecer e que vão governar
+tudo que acontece na esfera celeste.
+    ← Rotação: duração de 24hrs;
+        ← Um conceito importante derivado da rotação da Terra é a passagem
+meridiana de um astro – representa o instante em que o astro atinge a
+máxima altura com relação ao horizonte, ou a mínima distância
+zenital (Marte está mais afastado do horizonte, logo temos
+o melhor momento para observar).
+    ← Translação: 365 dias;
+    ← Precessão: 26.000 anos;
+    ← Nutação: 18.6 anos.
+
+Além disso, têm uma inclinação no eixo (23.5º) e, com isso, temos as estações
+do ano.
+    ← A inclinação junto à rotação define outra característica, aprendida no
+arquivo: "13. As constelações", as estrelas circumpolares, pois para cada
+latitude existe um grupo de estrelas que sempre estarão visíveis acima
+do horizonte;
+    ← Nos polos, todas estrelas são circumpolares, no equador nenhuma é.
+    ← O ponto vernal é a incidência maior de raios solares em uma
+região, onde marca as estações em cada hemisfério do mundo – nas
+zonas temperadas.
+
+• Alguns termos importantes para a Terra são:
+    ← Terminador: A linha que separa o dia da noite.
+
+• Para falar sobre o nosso único satélite natural, precisamos entender alguns
+pontos.
+    As fases da lua consistem em:
+    ← Nova: Todos os dias 1 e 29;
+    ← Quarto Crescente: 7;
+    ← Cheia: 14;
+    ← Quarto Minguante: 21;
+    Isso se chama lunação, que dura cerca de 29d 12h 44m;
+        ← Isto tem muita implicação, muita coisa ligada a este termo,
+relembrando dos ossos de Lebombo, ensinados no arquivo: "12. Uma
+breve introdução", os chineses mediam a gravidez em semanas
+justamente por isso.
+
+    •• "O que é o termo super-lua?"
+    No arquivo: "Q&A", explicamos o que é o apogeu e perigeu, a super lua nada
+mais é que a lua estar cheia no perigeu.
+    Já soltou um navio parado, pois criou uma super maré.
+
+    •• "Por que em todas as imagens da lua, sempre vemos o mesmo lado?"
+    A lua sempre mostra o mesmo lado para nós devido ao "travamento"
+gravitacional com a Terra. Entretanto, o efeito combinado faz com
+que a parcela da superfície lunar seja maior que 50%, nomeado
+libração.
+
+    •• "Qual a causa das marés?"
+    De acordo com o Galileu, a principal causa seriam devido aos 2 movimentos
+da Terra: o de rotação e translação em torno do Sol. Entretanto, foram os
+tupinambá do MA que contribuíram nesta questão, por dependerem muito da
+pesca, atribuíram a causa à Lua, que se verificam na lua cheia e lua
+nova.
+
+    •• "Como funcionam os eclipses?"
+    A periodicidade e recorrência dos eclipses é governada pelo ciclo de saros,
+um período de 18a 11d 8hrs, que é a harmonia entre os períodos orbitais da
+lua.
+    São vários tipos de eclipses, sendo eles:
+    ← Penumbral: lua passa pela penumbra (leve escurecimento da lua);
+    ← Parcial: lua passa parcialmente pela umbra (só uma parte da lua fica no
+cone de sombra da Terra);
+    ← Híbrido (raro): anelar e total, para ver isso tem que seguir a sombra
+da lua;
+    ← Total: lua passa totalmente pela umbra (anel de fogo, coroa
+solar – dependendo do ângulo de fotografia).
+
+    • Na coroa, temos alguns termos a serem aprendidos:
+    ← Proeminência: quando fica apenas um ponto do sol visível;
+    ← Cronosfera: camada que tangencia.
+    ← Baily's beads: já que a superfície da lua é irregular, no cobrimento do
+sol pela lua, o brilho é regular, cintilando.
+
+
+    •• "O que é o ponto vernal?"
+    Basicamente, é a incidência de raios solares em uma região é maior, onde
+marca as estações em cada hemisfério do mundo – nas zonas temperadas.

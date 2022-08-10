@@ -1,0 +1,44 @@
+A astronomia é uma ciência passiva, ou seja, estamos ali, sentados na plateia,
+enquanto todos os objetos se comunicam com todos nós através de uma
+informação crucial: a luz.
+
+Voltando ao passado, podemos perceber alguns modelos sobre a luz.
+    ← Galileu tentou medir a velocidade da luz enviando um colega longe e pedindo pra piscar a lamparina, ai ele falava a hora que percebia piscar.
+
+Mas foi o Ole Romer que conseguiu perceber a velocidade do tempo, percebendo a conjunção do Sol em relação a Jupiter e seus satélites.
+
+301204.8km/s
+
+Mas nós descobrimos que é de 299792km/s
+
+Mas não tiram o mérito, já que ele percebeu essa velocidade de propagação.
+
+
+
+Em 1728, James Bradley:
+
+Usou um efeito interessante, conhecido como aberração da luz, ou aberração estelar para calcular a velocidade da luz.
+
+Chegou aos 300k km/s
+
+
+
+Mas apenas em 1862.
+
+Foucault usou uma vela e dois espelhos – um fixo (estacionário) e outro giratório, assim chegou no valor mais preciso – 299796km/s.
+
+
+
+Newton diz que a luz era composta por partículas, que eram pequenas para serem identificadas individualmente.
+
+Thomas Young disse que a luz era uma onda, foi feito em uma água em tanque, onde o comportamento ondulatório foi observado.
+
+Maxwell determinou que a luz é uma onda eletromagnética que possui essa dualidade de onda e partícula, a partícula da luz é o fóton.
+
+
+
+
+
+Quando o comprimento de onda diminui, a frequência aumenta. Verificar imagem.
+
+Então temos que construir um satélite. Já que nossa atmosfera n deixa passar nada. Para ondas de rádio nossa atmosfera é totalmente transparente, então n precisamos colocar uma antena de satélite fora do espaço.

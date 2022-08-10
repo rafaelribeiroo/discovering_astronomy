@@ -8,7 +8,7 @@ O Marte é avermelhado porque sua superfície é coberta por óxido de
 ferro (ferrugem).
 
 "O quanto o filme: "Perdido em Marte" é real?"
-Este filme é o que chamamos de Scifi Hard (ficção científica mas muito calcada
+Este filme é o que chamamos de Sci-fi Hard (ficção científica mas muito calcada
 na realidade), isso porquê tem hipóteses que podem se provar reais
 posteriormente. A tempestade de areia no começo é real, pois têm
 tempestades globais que cobrem o planeta, ficando meses daquela
@@ -25,6 +25,11 @@ Curiosity.
 "Quanto tempo levaria em média para terraformar?"
 Entre 1.000 e 2.000 anos, é muito tempo para a humanidade, mas não muito para a
 civilização.
+
+
+
+
+
 
 
 Em marte, de dia é avermelhado (como o por do sol na Terra) e no crepusculo
@@ -198,3 +203,224 @@ qndo derrete areia vira vidro
 cria uma montanha de organismos mortos, que vira rocha futuramente (sedimenta)
 isso tem o nome de rocha de estromatólito
 e la em marte tem essa mesma rocha do pré-sal aqui no Brasil
+
+
+nenhuma plantacao hj sobrevive sem 1 sistema de satelite
+as colhetadeiras do MATO GROSSO, todas sao guiadas e monitoradas por satelite
+    se ela andar 100m a mais, aquilo causa um preju de nao sei quanto
+
+minerio de ferro
+    a movimentacao dos caminhoes é estudada por satelite, se o caminhao atrasa um pokim
+    o somatorio disso vai afetar
+
+onde vamos plantar o arroz? Satelite indica o melhor terreno p plantio
+    arroz so nasce em uma determinada condicao
+
+
+SPINOFS
+    cirurgia catarata - desenvolvida na ISS - excelente laboratorio, pois ta fora da terra, magnetismo, radiacoes diferentes, ambiente mto mais limpo
+
+    metereologia desencalhou um navio
+
+    aplicacao de telescopio: expansao urbana, trafego de carros
+
+
+ANTES DO LANCAMENTO
+oxigenio puro é perigoso, entao tem q ser hidrogenio
+o ambiente deve ficar hermetico, quieto, quanto menos variavel, mais facil controlar.
+
+tem um combustivel mto toxico, par hipergolico, pq faz mto mal
+
+
+FOGUETE
+a terra gira e ele sai reto,
+a estacao da ISS passa e depois tu envia o foguete
+sao varias orbitas, entao ele intercepta durante a orbita
+
+
+p ir p marte a gente vai
+    mas tem o fator tripa, incontrolavel
+
+
+
+foguete sub-orbitar: vai p cima e volta
+
+richard brenson: turismo espacial, nao quer lancar satelite
+jeff bezos: quer atacar no turismo e exploracao
+elon musk: apenas exploracao
+
+GATEWAY: sera um translado que vai pegar astronautas da ISS e levar a lua
+
+
+marcos pontes foi como turista
+
+usamos dados de metereologia dos EUA
+    pq
+
+    quando  foi feita a ISS, varios paises disse que fariam algo
+    O Brasil tinha uma serie de coisas a serem feitas, e n foram feitas, ai foram reduzindo o escopo\
+    ia fazer um palete que ia ficar de fora da ISS, entao marcos pontes foi nao de astronomia mas de turista, pessoal n falava com ele
+
+
+
+new horizons: painel solar funciona ate jupiter, apos isso tem que ser pilha nuclear.
+    RTG: pra lancar, a seguranca é gigantesca, se explodir a carguinha, quanto mais alto sobe, mais abrangente será o alcance
+    pilha nuclear
+    gerador termico radioe
+    pega plutonio, e no decaimento gera calor, que gera energia.
+
+
+a fibra eh mais facil q coaxial
+    coaxial tem q ter estacao p ter q ficar levantando sinal a longa distancia
+
+    satelite que custa 250mil dolares e
+
+entrelacamento de linha do campo magnetico do sol - 2:47:30 space orbit
+    a terra tem um campo a rigor de polar
+    o sol nao funciona assim: em pequena distancia tem 2 polos
+        ele tem varias linhas de campo e o polo gira mais rapido, uma hr as linhas se cruzam e se arrebentam e
+        ai ocorre a explosao solar e o plasma vem pra Terra, onde temos as auroras
+
+vento solar é particula, é um pedaco do sol. eh nao sei quantas terras
+    a vela solar é isso
+
+
+
+    pilha eh reacao quimica
+    litio carrega uma carga e dps descarrega
+        problema do litio eh cobalto = trabalho escravo
+
+
+nutrientes sao os compostos organicos
+EUROPA tem energia
+    jupiter em algo eliptico, isso causa uma friccao/sanfona
+    isso gera calor e por isso tem um oceano
+    e os compostos talvez geram a vida organica
+
+
+equacao de drake - equacao d probabilidade de ter vida evoluida pelo universo
+
+exoplanetas - planetas q estao em outros universos
+
+
+a lua n tem inclinacao no eixo, as crateras no Polo nunca viram um raio de Sol, entao tem muito gelo.
+
+pareidolia - rosto em mARTE, que na real é uma montanha, mas o jogo de sombras e fotografia deu aquele desenho conhecido
+
+Mtas coisas acontecem na atmosfera da Terra e n tem nada de misterioso
+    fenomenos:
+    raio bola: um raio soh que no formato de uma bola
+    red sprite: origem eletrica que ocorre acima das nuvens de tempestade
+
+12m atras o Marte
+sol 8m
+estrela 4 anos luz: 4 anos atras, que é quando a luz saiu dela
+
+
+os vulcoes traz as rochas que vem la do manto, traz informacoes diretas.
+
+o nucleo é com medidas indiretas, qndo acontece terremoto, a onda q ele provoca viaja pelo interior da Terra e detectamos em um outro lugar, a partir disso identificamos o interior da Terra, ela reflete e conseguimos ver ate onde vai
+o vulcao vai ate o nucleo, mesosfera
+
+teoria da terra oca - hollow earth
+    king kong vs godzilla
+
+
+cerebro de boltzman
+teoria das cordas - mundo branas - liga ao mundo quantico
+
+
+
+a luz eh uma onda, entao como ondas se comportam em gravidades inetnsas
+ela aumenta o comprimento de onda, entao ela muda a frequencia
+
+
+
+
+fusao - o que acontece no sol, 2 atomos de hidrogenio e bate e cria o helio, ai cria a energia
+
+
+
+se n fosse teoria relatividade fotoeletrico
+    comunicacao, entender como sincroniza relogio, como funcionam satelites
+
+
+
+emdrive - melhor maneira de produzir foguete
+    empuxo sem usar combustivel
+    reboteamento de microondas dentro de uma camara e dai gera o empuxo
+    Pensa um sino, pega uma microonda talvez ate de seu micro-ondas e deixa ela bater la dentro do sino
+    quebra leis da fisica, termodinamica, ganhou notoriedade qndo mexeu milimetros
+
+
+
+Assimov: ponto de la-grange
+    tu usa os pontos de la-grange para ganhar velocidade pela gravidade dos astros
+    pontos de equilibrio
+
+vento solar
+
+
+
+
+
+ATOMOSFERA - tem uma composicao
+    78% nitrogenio
+    x% oxigenio
+
+
+PARADOXO DE FERMI - se existe tanta vida fora da Terra, como a gente nunca achou e como elas nunca nos encontrou
+
+
+
+navio foi atravessar o canal de suez e travou a economia global
+20cm a mais q o normal
+
+
+
+como formam as montanhas?
+Impacto de 2 placas tectonicas
+
+
+pro einstein, a gravidade é o quanto o objeto deforma o espaco ao redor dele
+
+
+o tempo n eh fixo, tem uma relativacao
+quando acelera mais, o tempo dilata (demora mais tempo p passar), aquele tempo q passou aqui
+
+
+diagrama de feynman - como duas ou mais particulas interagem, uma maneira de representar. Ex: imagine 2 eletrons
+
+
+entropia - a desordem no sistema fisico fechado sempre cresce
+
+ao lancar um satelite, da um empuxo (empurrao) de modo que ela escape da forca gravitacional da Terra
+ate q surge uma nova forca que pare ela
+
+
+ondas gravitacionais - quando dois buracos negros colidem - nunca conseguiremos detectar isso
+
+
+precisa sustentacao de atmosfera p voar um helicoptero
+
+helio 3 vc teria o reator de fusao e o sol artificial duraria um bom tempo.
+
+
+
+O que ocorreu com a era jurrásica?
+Caiu um meteoro no golfo do México e com isso subiu muita poeira, com isso tampou os raios solares e a vegetacao ruiu, com isso os herbivoros faleceram e portanto, os carnivoros.
+
+
+sensor CCD da camera originou na astronomia.
+
+richar brenson - turismo espacial - 100-250k U$
+bezos - turismo e exploracao
+musk - leva astronauta pra ISS, envia satelites,
+
+
+a Terra não é um planeta, é um reino do criador, os demais são orbes que o
+Criador colocou ali, pra fora do domo são as águas superiores, calcado demais na religiao, creacionismo
+
+
+
+nenhuma plantacao funciona sem um sistema de satelite

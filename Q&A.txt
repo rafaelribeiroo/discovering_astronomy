@@ -139,3 +139,12 @@ Aproximadamente (~) 4 anos-luz, ou seja, vemos o brilho emitido por ela há
 → O que é apogeu e perigeu da Lua?
 Todos sabemos que a Lua orbita a Terra em uma elipse, o perigeu é a região
 mais próxima e o apogeu, mais distante. Checar imagem: "2.png"
+
+
+→ O que é scrub?
+Quando o lançamento de um foguete é cancelado por motivos climáticos.
+
+
+→ O que é star trail?
+São técnicas de fotografia, comumente utilizadas para fotografar estrelas
+circumpolares e sua trajetória no decorrer do céu.
