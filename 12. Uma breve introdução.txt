@@ -114,7 +114,7 @@ provou a teoria de Copérnico;
     ← Formulou a lei da gravitação universal;
     ← Newton via a gravidade como uma força, enquanto Einstein, como uma
 deformação.
-    ← Criou as três leis de Newton:
+    ← Criou as três leis:
 
         ← 1ª: Inércia, ou seja, um corpo vai parecer imóvel até que alguém
 exerça alguma forca sobre;
@@ -127,6 +127,7 @@ produz uma aceleração a, igual à forca, dividida pela massa;
 de satélites em órbita de um planeta. Ou seja, é calculado o empuxo
 (velocidade necessária) necessário para deixar a gravidade da
 Terra.
+    F = G * (m1 * m2) / r^2
 
 • Edmond Halley
     ← Catalogou pela 1ª vez as estrelas pelo hemisfério Sul, antes era apenas
